@@ -1,5 +1,3 @@
-Resources : https://rosettacode.org/wiki/I.Q._Puzzle#Prolog
+For Homework 8:
 
-Must have lambda library installed or it will just show errors.
-
-Professor code only showed first 4 missing peg solutions so my solution only shows the first 4.  If you want other solutions just change the lines of code where it takes in what hole you want to leave open. 
+Code Prints out starting positions for positions 0-4.  Code can detect what spot is open or filled and can reposition peg but repositioning would not work properly so did not include in main, so step by step solution is not printed out.
